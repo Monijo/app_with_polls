@@ -4,3 +4,5 @@
 3. First migration->create tables from settings/INSTALLED_APPS
 4. 4.create models, add app to install aps 'polls.apps.PollsConfig'
 5. migracje w sql : $ python manage.py sqlmigrate polls 0001
+6. checking problems :  py manage.py check
+
